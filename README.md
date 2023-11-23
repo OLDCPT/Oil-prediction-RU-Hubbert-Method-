@@ -1,7 +1,7 @@
 # Oil-prediction-RU-Hubbert-Method-
 
 Вы можете использовать «РФ.csv» в качестве необработанных данных и «Prediction RU.ipynb» в качестве кода операции.
-«РФ.csv» выбран из таблицы «Добыча нефти – Бочки» (РФ 1985-2022 гг.) (URL: https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
+«РФ.csv» выбран из "2023 Statistical Review of World Energy",таблицы «Добыча нефти – Бочки» (РФ 1985-2022 гг.) (URL: https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
 ![image](https://github.com/OLDCPT/Oil-prediction-RU-Hubbert-Method-/assets/138907558/7cfd3a94-3766-4192-83f3-33ea96bda2f5)
 Karvounis, P.; J. Blunt, M. Unconstrained Extraction of Fossil Fuels and Implication for Carbon Budgets under Climate Change Scenarios. JFFHMT 2021. URL: https://doi.org/10.11159/jffhmt.2021.009. 
 Рассчитав 𝑁_0, K, r, можно решить уравнение (1). Используя Python для автоматического расчета и подбора модели, мы можем получить следующие результаты:
