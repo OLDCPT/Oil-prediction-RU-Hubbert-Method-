@@ -1,4 +1,5 @@
 # Oil-prediction-RU-Hubbert-Method-
+
 Вы можете использовать «РФ.csv» в качестве необработанных данных и «Прогноз RU.ipynb» в качестве кода операции.
 «РФ.csv» выбран из таблицы «Добыча нефти – Бочки» (РФ 1985-2022 гг.) (URL: https://www.energyinst.org/__data/assets/excel_doc/0007/1055545/EI-stats-review-all-data.xlsx)
 ![image](https://github.com/OLDCPT/Oil-prediction-RU-Hubbert-Method-/assets/138907558/7cfd3a94-3766-4192-83f3-33ea96bda2f5)
