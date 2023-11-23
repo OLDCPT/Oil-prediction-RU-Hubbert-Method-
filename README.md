@@ -2,6 +2,8 @@
 ![image](https://github.com/OLDCPT/Oil-prediction-RU-Hubbert-Method-/assets/138907558/7cfd3a94-3766-4192-83f3-33ea96bda2f5)
 Karvounis, P.; J. Blunt, M. Unconstrained Extraction of Fossil Fuels and Implication for Carbon Budgets under Climate Change Scenarios. JFFHMT 2021. URL: https://doi.org/10.11159/jffhmt.2021.009. 
 Рассчитав 𝑁_0, K, r, можно решить уравнение (1). Используя Python для автоматического расчета и подбора модели, мы можем получить следующие результаты:
+
+![image](https://github.com/OLDCPT/Oil-prediction-RU-Hubbert-Method-/assets/138907558/0f012b53-9322-4523-974e-a427ff0a113c)
 ![image](https://github.com/OLDCPT/Oil-prediction-RU-Hubbert-Method-/assets/138907558/705b0390-1499-44a1-9420-e68aa218d2ed)
 ![image](https://github.com/OLDCPT/Oil-prediction-RU-Hubbert-Method-/assets/138907558/6c7ad6eb-a604-484a-a0c2-e9328a9bbb3c)
 
